@@ -16,7 +16,7 @@ MATLAB R2022b
     2. 'cannon_parallelized_nxn' - implementation of cannon's algorithm for nxn matrix using parallel techniques 
     3. 'cannonnxn' - implementation of cannon's algorithm for dimensions(n)
    4. 'cannon_parallelized_nxn' - implementation of cannon's algorithm for nxn matrix using parallel techniques 
-2. 'normal' - contains the main file for implementation of school algorithm
+2. 'School algorithm' - contains the main file for implementation of school algorithm
    1.'gen_matx_matx' - implementation of school's algorithm for dimensions(n)
 3. 'strassen's algorithm/' - contains the main file for implementation of strassen's algorithm
    1.'strassen' - implementation of strassen's algorithm for dimensions(n)
