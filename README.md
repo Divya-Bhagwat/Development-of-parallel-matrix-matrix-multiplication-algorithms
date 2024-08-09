@@ -19,10 +19,12 @@ MATLAB R2022b
 2. 'normal' - contains the main file for implementation of school algorithm
    1.'gen_matx_matx' - implementation of school's algorithm for dimensions(n)
 3. 'strassen's algorithm/' - contains the main file for implementation of strassen's algorithm
-   1.'strassen_final' - implementation of strassen's algorithm for dimensions(n)
+   1.'strassen' - implementation of strassen's algorithm for dimensions(n)
      - 'compute1'
-     - 'matrix_qud'
+     - 'matrix_quad1'
    2.'strassen_parallelized' - implementation of strassen's algorithm for dimensions(n) using parallel techniques
+     - 'compute'
+     - 'matrix_quad'
 4. 'Analysis of Algorithms/' - contains the main file for analysis of algorithm.
 
 ## Analysis:
